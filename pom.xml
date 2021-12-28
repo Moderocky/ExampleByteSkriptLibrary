@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.byteskript</groupId>
             <artifactId>byteskript</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.4</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
